@@ -1,0 +1,5 @@
+Model,Change,Test F1,Observation
+Best MLP,None,0.8303167420814479,Stable baseline
+Variant A,No Dropout,0.8044444444444445,Prone to rapid overfitting
+Variant B,Sigmoid instead of ReLU,0.34782608695652173,Slower convergence
+Variant C,No Early Stopping (150 epochs fixed),0.8660714285714286,Overtrains and loses generalisation
