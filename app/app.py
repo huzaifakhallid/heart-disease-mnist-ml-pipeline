@@ -21,7 +21,7 @@ def load_resources():
 
 model, preprocessor, feature_names, sample_patient = load_resources()
 
-st.title("Assignment #4")
+st.title("Heart Disease Diagnostic Pipeline")
 st.markdown("""
 This dashboard provides a decision-support tool for assessing the likelihood of heart disease in patients based on 13 clinical features. 
 """)

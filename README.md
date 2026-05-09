@@ -1,4 +1,4 @@
-# ***Heartbeat to Heatmap***
+# ***Heart Disease & MNIST ML Pipeline***
 
 This repository contains the complete ML pipeline and deployment application for the DS-3002 Data Mining Assignment #4. 
 The project demonstrates unsupervised learning, ensemble methods, tabular neural networks, and convolutional neural networks applied to the UCI Cleveland Heart Disease dataset and MNIST digits.
